@@ -1,4 +1,4 @@
-package com.corsojavarebis.esercizi;
+package com.esercitazioni.mie;
 
 import java.util.Random;
 
